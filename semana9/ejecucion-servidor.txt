@@ -1,0 +1,8 @@
+cuando coloco el comando node server.js. aparece un texto
+que dice (Servidor ejecutándose en puerto 3000)
+
+la terminal se pega o no responde me toca reiniciarla 
+
+y lo que me salio cuando visite la ruta /estado me 
+salio este mensaje:
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
